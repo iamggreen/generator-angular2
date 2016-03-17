@@ -1,0 +1,15 @@
+{
+  "name": "generator-angular2",
+  "version": "0.1.0",
+  "description": "Generator for Angular2",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.22.5"
+  }
+}
